@@ -1,0 +1,42 @@
+/* https://www.section.io/engineering-education/registration-form-react.js-firebase/ */
+body {
+    background: #234257;
+    background: -webkit-linear-gradient(to right, #221b42, #bdc3c7);
+    background: linear-gradient(to right, #53a4c1, #276a96);
+}
+
+.form {
+    background-color: white;
+    border-radius: 7px;
+    width: 550px;
+    margin: 30px auto;
+    padding: 30px;
+    /* height: 600px; */
+}
+
+.form-body {
+    text-align: left;
+    padding: 20px 10px;
+}
+
+.form-body>* {
+    padding: 10px;
+}
+
+.form__label {
+    width: 50%;
+}
+
+.form_input {
+    width: 60%;
+}
+
+.footer {
+    text-align: center;
+}
+
+h1 {
+    font-size: xx-large;
+    font-weight: 1000;
+    color: white;
+}
